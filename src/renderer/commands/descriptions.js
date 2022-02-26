@@ -81,7 +81,6 @@ const commandDescriptions = Object.freeze({
   'view.toggle-sidebar': 'View: Toggle Sidebar',
   'view.toggle-toc': 'View: Toggle Table of Content',
   'view.toggle-tabbar': 'View: Toggle Tabs',
-  'view.reload-images': 'View: Force reload images',
   'view.toggle-dev-tools': 'View: Show Developer Tools (Debug)',
   'view.dev-reload': 'View: Reload Window (Debug)',
   'tabs.cycle-forward': 'Misc: Cycle Tabs Forward',
@@ -103,7 +102,7 @@ const commandDescriptions = Object.freeze({
   // # Menu descriptions but not available as command
   // #
 
-  'view.reload-images': 'View: Clear cache and reload images',
+  'view.reload-images': 'View: Force reload images',
 
   // ============================================
   // # Additional command descriptions
